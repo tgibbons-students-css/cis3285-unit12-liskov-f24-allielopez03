@@ -1,5 +1,7 @@
-﻿using SubtypeCovariance;
+﻿using System;
+using SubtypeCovariance;
 
+namespace ConsoleApp;
 class Program
 {
     static void Main(string[] args)
